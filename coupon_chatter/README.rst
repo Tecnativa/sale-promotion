@@ -73,6 +73,10 @@ Contributors
    -  Pilar Vargas
    -  Stefan Ungureanu
 
+-  `Heliconia Solutions Pvt. Ltd. <https://www.heliconia.io>`__
+
+   -  Bhavesh Heliconia
+
 Maintainers
 -----------
 
@@ -86,13 +90,13 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-.. |maintainer-chienandalu| image:: https://github.com/chienandalu.png?size=40px
-    :target: https://github.com/chienandalu
-    :alt: chienandalu
+.. |maintainer-victoralmau| image:: https://github.com/victoralmau.png?size=40px
+    :target: https://github.com/victoralmau
+    :alt: victoralmau
 
 Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-chienandalu| 
+|maintainer-victoralmau| 
 
 This module is part of the `OCA/sale-promotion <https://github.com/OCA/sale-promotion/tree/18.0/coupon_chatter>`_ project on GitHub.
 

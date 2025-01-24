@@ -183,6 +183,3 @@ msgstr "Mensajes de la página web"
 #: model:ir.model.fields,help:coupon_chatter.field_loyalty_program__website_message_ids
 msgid "Website communication history"
 msgstr "Historial de la comunicación en la página web"
-
-#~ msgid "SMS Delivery error"
-#~ msgstr "Error en la entrega de sms"
